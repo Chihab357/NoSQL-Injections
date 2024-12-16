@@ -3,6 +3,8 @@
 
 ---
 
+<img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300" alt="Hacker GIF">
+
 ## 📋 Project Overview
 
 This project demonstrates the **vulnerability of NoSQL databases**, focusing on **MongoDB** when used with a **Node.js application**. It highlights how attackers can bypass authentication using improperly validated inputs.
